@@ -9,7 +9,7 @@ Para rodar os testes é necessário ter instalado:
 * WebDriver do Chrome
 
 <h1 style="background-color: #333; color: #fff; padding: 10px;">Configuração</h1>
-Antes de rodar os testes, é necessário configurar o caminho para o WebDriver do Chrome no arquivo TestCase na variável **`${chrome_driver_path}`**.
+Antes de rodar os testes, é necessário configurar o caminho para o WebDriver do Chrome no arquivo TestCase na variável `${chrome_driver_path}`.
 
 <h1 style="background-color: #333; color: #fff; padding: 10px;">Cenários de Testes</h1>
 O projeto contém 5 testes que verificam diferentes cenários da funcionalidade de busca do site:
@@ -31,3 +31,4 @@ Verifica se ao buscar por múltiplos termos, o resultado esperado é exibido.
 
 <h1 style="background-color: #333; color: #fff; padding: 10px;">Autora</h1>
 Esse projeto foi desenvolvido por Luana Cristini Lindemann como parte do processo seletivo para Software Tester Engineer Jr na empresa Agi.
+
